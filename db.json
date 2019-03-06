@@ -1,0 +1,24 @@
+{
+  "name": "Jewel",
+  "username": "Jewel3",
+  "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/dhrubo/128.jpg",
+  "email": "Jewel3_Emard@hotmail.com",
+  "dob": "1967-09-26T10:47:11.506Z",
+  "phone": "1-083-636-2842",
+  "address": {
+    "street": "Heidenreich Roads",
+    "suite": "Apt. 988",
+    "city": "Legrosfort",
+    "zipcode": "33871-0275",
+    "geo": {
+      "lat": "3.1172",
+      "lng": "168.2060"
+    }
+  },
+  "website": "elmore.org",
+  "company": {
+    "name": "Wisoky, Waelchi and Conroy",
+    "catchPhrase": "Streamlined tangible functionalities",
+    "bs": "e-business drive channels"
+  }
+}
